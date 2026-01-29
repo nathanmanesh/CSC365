@@ -1,0 +1,25 @@
+CREATE TABLE ROOMS(
+    RoomId CHAR(3) UNIQUE,
+    roomName VARCHAR(50) NOT NULL,
+    beds INT NOT NULL,
+    bedType VARCHAR(20) NOT NULL,
+    maxOccupancy INT NOT NULL,
+    basePrice DECIMAL(8, 2) NOT NULL,
+    decor VARCHAR(100) NOT NULL,
+    Primary Key (RoomId, roomName)
+);
+CREATE TABLE RESERVATIONS(
+    Code INT AUTO_INCREMENT PRIMARY KEY,
+    Room CHAR(3) NOT NULL,
+    CheckIn DATE NOT NULL,
+    CheckOut DATE NOT NULL,
+    Rate DECIMAL(8, 2) NOT NULL,
+    LastName VARCHAR(30) NOT NULL,
+    FirstName VARCHAR(30) NOT NULL,
+    Adults INT NOT NULL,
+    Kids INT NOT NULL,
+    FOREIGN KEY (Room) REFERENCES ROOMS (RoomId)
+);
+
+-- DROP TABLE RESERVATIONS;
+-- DROP TABLE ROOMS;
