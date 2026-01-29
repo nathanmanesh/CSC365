@@ -83,7 +83,7 @@ INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES
 (34, 6, 'jeep'),
 (35, 19, 'scion');
 
-INSERT INTO CAR_NAMES (Id, Model, Make) VALUES
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES
 (1, 'chevrolet', 'chevrolet chevelle malibu'),
 (2, 'buick', 'buick skylark 320'),
 (3, 'plymouth', 'plymouth satellite'),
