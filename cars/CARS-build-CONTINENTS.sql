@@ -1,0 +1,6 @@
+INSERT INTO CONTINENTS (ContId, Continent) VALUES
+(1, 'america'),
+(2, 'europe'),
+(3, 'asia'),
+(4, 'africa'),
+(5, 'australia');
