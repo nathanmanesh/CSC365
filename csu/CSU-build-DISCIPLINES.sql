@@ -1,23 +1,22 @@
-INSERT INTO DISCIPLINES (Id, Name) VALUES
-(1, 'Agriculture'),
-(2, 'Architecture'),
-(3, 'Area Studies'),
-(4, 'Biological Sciences'),
-(5, 'Business and Management'),
-(6, 'Communications'),
-(7, 'Computer and Info. Sciences'),
-(8, 'Education'),
-(9, 'Engineering'),
-(10, 'Fine and Applied Arts'),
-(11, 'Foreign Languages'),
-(12, 'Health Professions'),
-(13, 'Home Economics'),
-(14, 'Interdisciplinary Studies'),
-(15, 'Letters'),
-(16, 'Library'),
-(17, 'Mathematics'),
-(18, 'Physical Sciences'),
-(19, 'Psychology'),
-(20, 'Public Affairs'),
-(21, 'Social Sciences'),
-(22, 'Undeclared');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (1, 'Agriculture');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (2, 'Architecture');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (3, 'Area Studies');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (4, 'Biological Sciences');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (5, 'Business and Management');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (6, 'Communications');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (7, 'Computer and Info. Sciences');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (8, 'Education');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (9, 'Engineering');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (10, 'Fine and Applied Arts');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (11, 'Foreign Languages');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (12, 'Health Professions');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (13, 'Home Economics');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (14, 'Interdisciplinary Studies');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (15, 'Letters');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (16, 'Library');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (17, 'Mathematics');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (18, 'Physical Sciences');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (19, 'Psychology');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (20, 'Public Affairs');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (21, 'Social Sciences');
+INSERT INTO DISCIPLINES (Id, Name) VALUES (22, 'Undeclared');
