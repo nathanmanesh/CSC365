@@ -1,36 +1,36 @@
-INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES
-(1, 1, 'amc'),
-(2, 2, 'audi'),
-(3, 3, 'bmw'),
-(4, 4, 'buick'),
-(5, 4, 'cadillac'),
-(6, 5, 'capri'),
-(7, 4, 'chevrolet'),
-(8, 6, 'chrysler'),
-(9, 7, 'citroen'),
-(10, 8, 'datsun'),
-(11, 6, 'dodge'),
-(12, 9, 'fiat'),
-(13, 5, 'ford'),
-(14, 11, 'honda'),
-(15, 12, 'mazda'),
-(16, 13, 'mercedes'),
-(17, 13, 'mercedes-benz'),
-(18, 5, 'mercury'),
-(19, 8, 'nissan'),
-(20, 4, 'oldsmobile'),
-(21, 14, 'opel'),
-(22, 15, 'peugeot'),
-(23, 6, 'plymouth'),
-(24, 4, 'pontiac'),
-(25, 16, 'renault'),
-(26, 17, 'saab'),
-(27, 18, 'subaru'),
-(28, 19, 'toyota'),
-(29, 20, 'triumph'),
-(30, 2, 'volkswagen'),
-(31, 21, 'volvo'),
-(32, 22, 'kia'),
-(33, 23, 'hyundai'),
-(34, 6, 'jeep'),
-(35, 19, 'scion');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (1, 1, 'amc');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (2, 2, 'audi');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (3, 3, 'bmw');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (4, 4, 'buick');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (5, 4, 'cadillac');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (6, 5, 'capri');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (7, 4, 'chevrolet');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (8, 6, 'chrysler');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (9, 7, 'citroen');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (10, 8, 'datsun');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (11, 6, 'dodge');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (12, 9, 'fiat');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (13, 5, 'ford');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (14, 11, 'honda');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (15, 12, 'mazda');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (16, 13, 'mercedes');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (17, 13, 'mercedes-benz');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (18, 5, 'mercury');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (19, 8, 'nissan');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (20, 4, 'oldsmobile');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (21, 14, 'opel');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (22, 15, 'peugeot');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (23, 6, 'plymouth');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (24, 4, 'pontiac');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (25, 16, 'renault');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (26, 17, 'saab');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (27, 18, 'subaru');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (28, 19, 'toyota');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (29, 20, 'triumph');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (30, 2, 'volkswagen');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (31, 21, 'volvo');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (32, 22, 'kia');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (33, 23, 'hyundai');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (34, 6, 'jeep');
+INSERT INTO MODEL_LIST (ModelId, Maker, Model) VALUES (35, 19, 'scion');
+
