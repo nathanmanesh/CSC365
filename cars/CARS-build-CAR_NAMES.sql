@@ -1,406 +1,406 @@
-INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES
-(1, 'chevrolet', 'chevrolet chevelle malibu'),
-(2, 'buick', 'buick skylark 320'),
-(3, 'plymouth', 'plymouth satellite'),
-(4, 'amc', 'amc rebel sst'),
-(5, 'ford', 'ford torino'),
-(6, 'ford', 'ford galaxie 500'),
-(7, 'chevrolet', 'chevrolet impala'),
-(8, 'plymouth', 'plymouth fury iii'),
-(9, 'pontiac', 'pontiac catalina'),
-(10, 'amc', 'amc ambassador dpl'),
-(11, 'citroen', 'citroen ds-21 pallas'),
-(12, 'chevrolet', 'chevrolet chevelle concours (sw)'),
-(13, 'ford', 'ford torino (sw)'),
-(14, 'plymouth', 'plymouth satellite (sw)'),
-(15, 'amc', 'amc rebel sst (sw)'),
-(16, 'dodge', 'dodge challenger se'),
-(17, 'plymouth', 'plymouth cuda 340'),
-(18, 'ford', 'ford mustang boss 302'),
-(19, 'chevrolet', 'chevrolet monte carlo'),
-(20, 'buick', 'buick estate wagon (sw)'),
-(21, 'toyota', 'toyota corona mark ii'),
-(22, 'plymouth', 'plymouth duster'),
-(23, 'amc', 'amc hornet'),
-(24, 'ford', 'ford maverick'),
-(25, 'datsun', 'datsun pl510'),
-(26, 'volkswagen', 'volkswagen 1131 deluxe sedan'),
-(27, 'peugeot', 'peugeot 504'),
-(28, 'audi', 'audi 100 ls'),
-(29, 'saab', 'saab 99e'),
-(30, 'bmw', 'bmw 2002'),
-(31, 'amc', 'amc gremlin'),
-(32, 'ford', 'ford f250'),
-(33, 'chevrolet', 'chevy c20'),
-(34, 'dodge', 'dodge d200'),
-(35, 'datsun', 'datsun pl510'),
-(36, 'chevrolet', 'chevrolet vega 2300'),
-(37, 'toyota', 'toyota corona'),
-(38, 'ford', 'ford pinto'),
-(39, 'volkswagen', 'volkswagen super beetle 117'),
-(40, 'amc', 'amc gremlin'),
-(41, 'plymouth', 'plymouth satellite custom'),
-(42, 'chevrolet', 'chevrolet chevelle malibu'),
-(43, 'ford', 'ford torino 500'),
-(44, 'amc', 'amc matador'),
-(45, 'chevrolet', 'chevrolet impala'),
-(46, 'pontiac', 'pontiac catalina brougham'),
-(47, 'ford', 'ford galaxie 500'),
-(48, 'plymouth', 'plymouth fury iii'),
-(49, 'dodge', 'dodge monaco (sw)'),
-(50, 'ford', 'ford country squire (sw)'),
-(51, 'pontiac', 'pontiac safari (sw)'),
-(52, 'amc', 'amc hornet sportabout (sw)'),
-(53, 'chevrolet', 'chevrolet vega (sw)'),
-(54, 'pontiac', 'pontiac firebird'),
-(55, 'ford', 'ford mustang'),
-(56, 'mercury', 'mercury capri 2000'),
-(57, 'opel', 'opel 1900'),
-(58, 'peugeot', 'peugeot 304'),
-(59, 'fiat', 'fiat 124b'),
-(60, 'toyota', 'toyota corolla 1200'),
-(61, 'datsun', 'datsun 1200'),
-(62, 'volkswagen', 'volkswagen model 111'),
-(63, 'plymouth', 'plymouth cricket'),
-(64, 'toyota', 'toyota corona hardtop'),
-(65, 'dodge', 'dodge colt hardtop'),
-(66, 'volkswagen', 'volkswagen type 3'),
-(67, 'chevrolet', 'chevrolet vega'),
-(68, 'ford', 'ford pinto runabout'),
-(69, 'chevrolet', 'chevrolet impala'),
-(70, 'pontiac', 'pontiac catalina'),
-(71, 'plymouth', 'plymouth fury iii'),
-(72, 'ford', 'ford galaxie 500'),
-(73, 'amc', 'amc ambassador sst'),
-(74, 'mercury', 'mercury marquis'),
-(75, 'buick', 'buick lesabre custom'),
-(76, 'oldsmobile', 'oldsmobile delta 88 royale'),
-(77, 'chrysler', 'chrysler newport royal'),
-(78, 'mazda', 'mazda rx2 coupe'),
-(79, 'amc', 'amc matador (sw)'),
-(80, 'chevrolet', 'chevrolet chevelle concours (sw)'),
-(81, 'ford', 'ford gran torino (sw)'),
-(82, 'plymouth', 'plymouth satellite custom (sw)'),
-(83, 'volvo', 'volvo 145e (sw)'),
-(84, 'volkswagen', 'volkswagen 411 (sw)'),
-(85, 'peugeot', 'peugeot 504 (sw)'),
-(86, 'renault', 'renault 12 (sw)'),
-(87, 'ford', 'ford pinto (sw)'),
-(88, 'datsun', 'datsun 510 (sw)'),
-(89, 'toyota', 'toyota corona mark ii (sw)'),
-(90, 'dodge', 'dodge colt (sw)'),
-(91, 'toyota', 'toyota corolla 1600 (sw)'),
-(92, 'buick', 'buick century 350'),
-(93, 'amc', 'amc matador'),
-(94, 'chevrolet', 'chevrolet malibu'),
-(95, 'ford', 'ford gran torino'),
-(96, 'dodge', 'dodge coronet custom'),
-(97, 'mercury', 'mercury marquis brougham'),
-(98, 'chevrolet', 'chevrolet caprice classic'),
-(99, 'ford', 'ford ltd'),
-(100, 'plymouth', 'plymouth fury gran sedan'),
-(101, 'chrysler', 'chrysler new yorker brougham'),
-(102, 'buick', 'buick electra 225 custom'),
-(103, 'amc', 'amc ambassador brougham'),
-(104, 'plymouth', 'plymouth valiant'),
-(105, 'chevrolet', 'chevrolet nova custom'),
-(106, 'amc', 'amc hornet'),
-(107, 'ford', 'ford maverick'),
-(108, 'plymouth', 'plymouth duster'),
-(109, 'volkswagen', 'volkswagen super beetle'),
-(110, 'chevrolet', 'chevrolet impala'),
-(111, 'ford', 'ford country'),
-(112, 'plymouth', 'plymouth custom suburb'),
-(113, 'oldsmobile', 'oldsmobile vista cruiser'),
-(114, 'amc', 'amc gremlin'),
-(115, 'toyota', 'toyota carina'),
-(116, 'chevrolet', 'chevrolet vega'),
-(117, 'datsun', 'datsun 610'),
-(118, 'mazda', 'mazda rx3'),
-(119, 'ford', 'ford pinto'),
-(120, 'mercury', 'mercury capri v6'),
-(121, 'fiat', 'fiat 124 sport coupe'),
-(122, 'chevrolet', 'chevrolet monte carlo s'),
-(123, 'pontiac', 'pontiac grand prix'),
-(124, 'fiat', 'fiat 128'),
-(125, 'opel', 'opel manta'),
-(126, 'audi', 'audi 100ls'),
-(127, 'volvo', 'volvo 144ea'),
-(128, 'dodge', 'dodge dart custom'),
-(129, 'saab', 'saab 99le'),
-(130, 'toyota', 'toyota mark ii'),
-(131, 'oldsmobile', 'oldsmobile omega'),
-(132, 'plymouth', 'plymouth duster'),
-(133, 'ford', 'ford maverick'),
-(134, 'amc', 'amc hornet'),
-(135, 'chevrolet', 'chevrolet nova'),
-(136, 'datsun', 'datsun b210'),
-(137, 'ford', 'ford pinto'),
-(138, 'toyota', 'toyota corolla 1200'),
-(139, 'chevrolet', 'chevrolet vega'),
-(140, 'chevrolet', 'chevrolet chevelle malibu classic'),
-(141, 'amc', 'amc matador'),
-(142, 'plymouth', 'plymouth satellite sebring'),
-(143, 'ford', 'ford gran torino'),
-(144, 'buick', 'buick century luxus (sw)'),
-(145, 'dodge', 'dodge coronet custom (sw)'),
-(146, 'ford', 'ford gran torino (sw)'),
-(147, 'amc', 'amc matador (sw)'),
-(148, 'audi', 'audi fox'),
-(149, 'volkswagen', 'volkswagen dasher'),
-(150, 'opel', 'opel manta'),
-(151, 'toyota', 'toyota corona'),
-(152, 'datsun', 'datsun 710'),
-(153, 'dodge', 'dodge colt'),
-(154, 'fiat', 'fiat 128'),
-(155, 'fiat', 'fiat 124 tc'),
-(156, 'honda', 'honda civic'),
-(157, 'subaru', 'subaru'),
-(158, 'fiat', 'fiat x1.9'),
-(159, 'plymouth', 'plymouth valiant custom'),
-(160, 'chevrolet', 'chevrolet nova'),
-(161, 'mercury', 'mercury monarch'),
-(162, 'ford', 'ford maverick'),
-(163, 'pontiac', 'pontiac catalina'),
-(164, 'chevrolet', 'chevrolet bel air'),
-(165, 'plymouth', 'plymouth grand fury'),
-(166, 'ford', 'ford ltd'),
-(167, 'buick', 'buick century'),
-(168, 'chevrolet', 'chevrolet chevelle malibu'),
-(169, 'amc', 'amc matador'),
-(170, 'plymouth', 'plymouth fury'),
-(171, 'buick', 'buick skyhawk'),
-(172, 'chevrolet', 'chevrolet monza 2+2'),
-(173, 'ford', 'ford mustang ii'),
-(174, 'toyota', 'toyota corolla'),
-(175, 'ford', 'ford pinto'),
-(176, 'amc', 'amc gremlin'),
-(177, 'pontiac', 'pontiac astro'),
-(178, 'toyota', 'toyota corona'),
-(179, 'volkswagen', 'volkswagen dasher'),
-(180, 'datsun', 'datsun 710'),
-(181, 'ford', 'ford pinto'),
-(182, 'volkswagen', 'volkswagen rabbit'),
-(183, 'amc', 'amc pacer'),
-(184, 'audi', 'audi 100ls'),
-(185, 'peugeot', 'peugeot 504'),
-(186, 'volvo', 'volvo 244dl'),
-(187, 'saab', 'saab 99le'),
-(188, 'honda', 'honda civic cvcc'),
-(189, 'fiat', 'fiat 131'),
-(190, 'opel', 'opel 1900'),
-(191, 'capri', 'capri ii'),
-(192, 'dodge', 'dodge colt'),
-(193, 'renault', 'renault 12tl'),
-(194, 'chevrolet', 'chevrolet chevelle malibu classic'),
-(195, 'dodge', 'dodge coronet brougham'),
-(196, 'amc', 'amc matador'),
-(197, 'ford', 'ford gran torino'),
-(198, 'plymouth', 'plymouth valiant'),
-(199, 'chevrolet', 'chevrolet nova'),
-(200, 'ford', 'ford maverick'),
-(201, 'amc', 'amc hornet'),
-(202, 'chevrolet', 'chevrolet chevette'),
-(203, 'chevrolet', 'chevrolet woody'),
-(204, 'volkswagen', 'vw rabbit'),
-(205, 'honda', 'honda civic'),
-(206, 'dodge', 'dodge aspen se'),
-(207, 'ford', 'ford granada ghia'),
-(208, 'pontiac', 'pontiac ventura sj'),
-(209, 'amc', 'amc pacer d/l'),
-(210, 'volkswagen', 'volkswagen rabbit'),
-(211, 'datsun', 'datsun b-210'),
-(212, 'toyota', 'toyota corolla'),
-(213, 'ford', 'ford pinto'),
-(214, 'volvo', 'volvo 245'),
-(215, 'plymouth', 'plymouth volare premier v8'),
-(216, 'peugeot', 'peugeot 504'),
-(217, 'toyota', 'toyota mark ii'),
-(218, 'mercedes-benz', 'mercedes-benz 280s'),
-(219, 'cadillac', 'cadillac seville'),
-(220, 'chevrolet', 'chevy c10'),
-(221, 'ford', 'ford f108'),
-(222, 'dodge', 'dodge d100'),
-(223, 'honda', 'honda accord cvcc'),
-(224, 'buick', 'buick opel isuzu deluxe'),
-(225, 'renault', 'renault 5 gtl'),
-(226, 'plymouth', 'plymouth arrow gs'),
-(227, 'datsun', 'datsun f-10 hatchback'),
-(228, 'chevrolet', 'chevrolet caprice classic'),
-(229, 'oldsmobile', 'oldsmobile cutlass supreme'),
-(230, 'dodge', 'dodge monaco brougham'),
-(231, 'mercury', 'mercury cougar brougham'),
-(232, 'chevrolet', 'chevrolet concours'),
-(233, 'buick', 'buick skylark'),
-(234, 'plymouth', 'plymouth volare custom'),
-(235, 'ford', 'ford granada'),
-(236, 'pontiac', 'pontiac grand prix lj'),
-(237, 'chevrolet', 'chevrolet monte carlo landau'),
-(238, 'chrysler', 'chrysler cordoba'),
-(239, 'ford', 'ford thunderbird'),
-(240, 'volkswagen', 'volkswagen rabbit custom'),
-(241, 'pontiac', 'pontiac sunbird coupe'),
-(242, 'toyota', 'toyota corolla liftback'),
-(243, 'ford', 'ford mustang ii 2+2'),
-(244, 'chevrolet', 'chevrolet chevette'),
-(245, 'dodge', 'dodge colt m/m'),
-(246, 'subaru', 'subaru dl'),
-(247, 'volkswagen', 'volkswagen dasher'),
-(248, 'datsun', 'datsun 810'),
-(249, 'bmw', 'bmw 320i'),
-(250, 'mazda', 'mazda rx-4'),
-(251, 'volkswagen', 'volkswagen rabbit custom diesel'),
-(252, 'ford', 'ford fiesta'),
-(253, 'mazda', 'mazda glc deluxe'),
-(254, 'datsun', 'datsun b210 gx'),
-(255, 'honda', 'honda civic cvcc'),
-(256, 'oldsmobile', 'oldsmobile cutlass salon brougham'),
-(257, 'dodge', 'dodge diplomat'),
-(258, 'mercury', 'mercury monarch ghia'),
-(259, 'pontiac', 'pontiac phoenix lj'),
-(260, 'chevrolet', 'chevrolet malibu'),
-(261, 'ford', 'ford fairmont (auto)'),
-(262, 'ford', 'ford fairmont (man)'),
-(263, 'plymouth', 'plymouth volare'),
-(264, 'amc', 'amc concord'),
-(265, 'buick', 'buick century special'),
-(266, 'mercury', 'mercury zephyr'),
-(267, 'dodge', 'dodge aspen'),
-(268, 'amc', 'amc concord d/l'),
-(269, 'chevrolet', 'chevrolet monte carlo landau'),
-(270, 'buick', 'buick regal sport coupe (turbo)'),
-(271, 'ford', 'ford futura'),
-(272, 'dodge', 'dodge magnum xe'),
-(273, 'chevrolet', 'chevrolet chevette'),
-(274, 'toyota', 'toyota corona'),
-(275, 'datsun', 'datsun 510'),
-(276, 'dodge', 'dodge omni'),
-(277, 'toyota', 'toyota celica gt liftback'),
-(278, 'plymouth', 'plymouth sapporo'),
-(279, 'oldsmobile', 'oldsmobile starfire sx'),
-(280, 'datsun', 'datsun 200-sx'),
-(281, 'audi', 'audi 5000'),
-(282, 'volvo', 'volvo 264gl'),
-(283, 'saab', 'saab 99gle'),
-(284, 'peugeot', 'peugeot 604sl'),
-(285, 'volkswagen', 'volkswagen scirocco'),
-(286, 'honda', 'honda accord lx'),
-(287, 'pontiac', 'pontiac lemans v6'),
-(288, 'mercury', 'mercury zephyr 6'),
-(289, 'ford', 'ford fairmont 4'),
-(290, 'amc', 'amc concord dl 6'),
-(291, 'dodge', 'dodge aspen 6'),
-(292, 'chevrolet', 'chevrolet caprice classic'),
-(293, 'ford', 'ford ltd landau'),
-(294, 'mercury', 'mercury grand marquis'),
-(295, 'dodge', 'dodge st. regis'),
-(296, 'buick', 'buick estate wagon (sw)'),
-(297, 'ford', 'ford country squire (sw)'),
-(298, 'chevrolet', 'chevrolet malibu classic (sw)'),
-(299, 'chrysler', 'chrysler lebaron town @ country (sw)'),
-(300, 'volkswagen', 'vw rabbit custom'),
-(301, 'mazda', 'mazda glc deluxe'),
-(302, 'dodge', 'dodge colt hatchback custom'),
-(303, 'amc', 'amc spirit dl'),
-(304, 'mercedes', 'mercedes benz 300d'),
-(305, 'cadillac', 'cadillac eldorado'),
-(306, 'peugeot', 'peugeot 504'),
-(307, 'oldsmobile', 'oldsmobile cutlass salon brougham'),
-(308, 'plymouth', 'plymouth horizon'),
-(309, 'plymouth', 'plymouth horizon tc3'),
-(310, 'datsun', 'datsun 210'),
-(311, 'fiat', 'fiat strada custom'),
-(312, 'buick', 'buick skylark limited'),
-(313, 'chevrolet', 'chevrolet citation'),
-(314, 'oldsmobile', 'oldsmobile omega brougham'),
-(315, 'pontiac', 'pontiac phoenix'),
-(316, 'volkswagen', 'vw rabbit'),
-(317, 'toyota', 'toyota corolla tercel'),
-(318, 'chevrolet', 'chevrolet chevette'),
-(319, 'datsun', 'datsun 310'),
-(320, 'chevrolet', 'chevrolet citation'),
-(321, 'ford', 'ford fairmont'),
-(322, 'amc', 'amc concord'),
-(323, 'dodge', 'dodge aspen'),
-(324, 'audi', 'audi 4000'),
-(325, 'toyota', 'toyota corona liftback'),
-(326, 'mazda', 'mazda 626'),
-(327, 'datsun', 'datsun 510 hatchback'),
-(328, 'toyota', 'toyota corolla'),
-(329, 'mazda', 'mazda glc'),
-(330, 'dodge', 'dodge colt'),
-(331, 'datsun', 'datsun 210'),
-(332, 'volkswagen', 'vw rabbit c (diesel)'),
-(333, 'volkswagen', 'vw dasher (diesel)'),
-(334, 'audi', 'audi 5000s (diesel)'),
-(335, 'mercedes-benz', 'mercedes-benz 240d'),
-(336, 'honda', 'honda civic 1500 gl'),
-(337, 'renault', 'renault lecar deluxe'),
-(338, 'subaru', 'subaru dl'),
-(339, 'volkswagen', 'volkswagen rabbit'),
-(340, 'datsun', 'datsun 280-zx'),
-(341, 'mazda', 'mazda rx-7 gs'),
-(342, 'triumph', 'triumph tr7 coupe'),
-(343, 'ford', 'ford mustang cobra'),
-(344, 'honda', 'honda accord'),
-(345, 'plymouth', 'plymouth reliant'),
-(346, 'buick', 'buick skylark'),
-(347, 'dodge', 'dodge aries wagon (sw)'),
-(348, 'chevrolet', 'chevrolet citation'),
-(349, 'plymouth', 'plymouth reliant'),
-(350, 'toyota', 'toyota starlet'),
-(351, 'plymouth', 'plymouth champ'),
-(352, 'honda', 'honda civic 1300'),
-(353, 'subaru', 'subaru'),
-(354, 'datsun', 'datsun 210 mpg'),
-(355, 'toyota', 'toyota tercel'),
-(356, 'mazda', 'mazda glc 4'),
-(357, 'plymouth', 'plymouth horizon 4'),
-(358, 'ford', 'ford escort 4w'),
-(359, 'ford', 'ford escort 2h'),
-(360, 'volkswagen', 'volkswagen jetta'),
-(361, 'renault', 'renault 18i'),
-(362, 'honda', 'honda prelude'),
-(363, 'toyota', 'toyota corolla'),
-(364, 'datsun', 'datsun 200sx'),
-(365, 'mazda', 'mazda 626'),
-(366, 'peugeot', 'peugeot 505s turbo diesel'),
-(367, 'saab', 'saab 900s'),
-(368, 'volvo', 'volvo diesel'),
-(369, 'toyota', 'toyota cressida'),
-(370, 'datsun', 'datsun 810 maxima'),
-(371, 'buick', 'buick century'),
-(372, 'oldsmobile', 'oldsmobile cutlass ls'),
-(373, 'ford', 'ford granada gl'),
-(374, 'chrysler', 'chrysler lebaron salon'),
-(375, 'chevrolet', 'chevrolet cavalier'),
-(376, 'chevrolet', 'chevrolet cavalier wagon'),
-(377, 'chevrolet', 'chevrolet cavalier 2-door'),
-(378, 'pontiac', 'pontiac j2000 se hatchback'),
-(379, 'dodge', 'dodge aries se'),
-(380, 'pontiac', 'pontiac phoenix'),
-(381, 'ford', 'ford fairmont futura'),
-(382, 'amc', 'amc concord dl'),
-(383, 'volkswagen', 'volkswagen rabbit l'),
-(384, 'mazda', 'mazda glc custom l'),
-(385, 'mazda', 'mazda glc custom'),
-(386, 'plymouth', 'plymouth horizon miser'),
-(387, 'mercury', 'mercury lynx l'),
-(388, 'nissan', 'nissan stanza xe'),
-(389, 'honda', 'honda accord'),
-(390, 'toyota', 'toyota corolla'),
-(391, 'honda', 'honda civic'),
-(392, 'honda', 'honda civic (auto)'),
-(393, 'datsun', 'datsun 310 gx'),
-(394, 'buick', 'buick century limited'),
-(395, 'oldsmobile', 'oldsmobile cutlass ciera (diesel)'),
-(396, 'chrysler', 'chrysler lebaron medallion'),
-(397, 'ford', 'ford granada l'),
-(398, 'toyota', 'toyota celica gt'),
-(399, 'dodge', 'dodge charger 2.2'),
-(400, 'chevrolet', 'chevrolet camaro'),
-(401, 'ford', 'ford mustang gl'),
-(402, 'volkswagen', 'vw pickup'),
-(403, 'dodge', 'dodge rampage'),
-(404, 'ford', 'ford ranger'),
-(405, 'chevrolet', 'chevy s-10');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (1, 'chevrolet', 'chevrolet chevelle malibu');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (2, 'buick', 'buick skylark 320');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (3, 'plymouth', 'plymouth satellite');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (4, 'amc', 'amc rebel sst');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (5, 'ford', 'ford torino');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (6, 'ford', 'ford galaxie 500');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (7, 'chevrolet', 'chevrolet impala');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (8, 'plymouth', 'plymouth fury iii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (9, 'pontiac', 'pontiac catalina');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (10, 'amc', 'amc ambassador dpl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (11, 'citroen', 'citroen ds-21 pallas');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (12, 'chevrolet', 'chevrolet chevelle concours (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (13, 'ford', 'ford torino (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (14, 'plymouth', 'plymouth satellite (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (15, 'amc', 'amc rebel sst (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (16, 'dodge', 'dodge challenger se');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (17, 'plymouth', 'plymouth cuda 340');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (18, 'ford', 'ford mustang boss 302');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (19, 'chevrolet', 'chevrolet monte carlo');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (20, 'buick', 'buick estate wagon (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (21, 'toyota', 'toyota corona mark ii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (22, 'plymouth', 'plymouth duster');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (23, 'amc', 'amc hornet');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (24, 'ford', 'ford maverick');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (25, 'datsun', 'datsun pl510');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (26, 'volkswagen', 'volkswagen 1131 deluxe sedan');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (27, 'peugeot', 'peugeot 504');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (28, 'audi', 'audi 100 ls');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (29, 'saab', 'saab 99e');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (30, 'bmw', 'bmw 2002');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (31, 'amc', 'amc gremlin');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (32, 'ford', 'ford f250');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (33, 'chevrolet', 'chevy c20');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (34, 'dodge', 'dodge d200');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (35, 'datsun', 'datsun pl510');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (36, 'chevrolet', 'chevrolet vega 2300');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (37, 'toyota', 'toyota corona');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (38, 'ford', 'ford pinto');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (39, 'volkswagen', 'volkswagen super beetle 117');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (40, 'amc', 'amc gremlin');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (41, 'plymouth', 'plymouth satellite custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (42, 'chevrolet', 'chevrolet chevelle malibu');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (43, 'ford', 'ford torino 500');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (44, 'amc', 'amc matador');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (45, 'chevrolet', 'chevrolet impala');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (46, 'pontiac', 'pontiac catalina brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (47, 'ford', 'ford galaxie 500');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (48, 'plymouth', 'plymouth fury iii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (49, 'dodge', 'dodge monaco (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (50, 'ford', 'ford country squire (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (51, 'pontiac', 'pontiac safari (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (52, 'amc', 'amc hornet sportabout (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (53, 'chevrolet', 'chevrolet vega (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (54, 'pontiac', 'pontiac firebird');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (55, 'ford', 'ford mustang');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (56, 'mercury', 'mercury capri 2000');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (57, 'opel', 'opel 1900');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (58, 'peugeot', 'peugeot 304');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (59, 'fiat', 'fiat 124b');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (60, 'toyota', 'toyota corolla 1200');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (61, 'datsun', 'datsun 1200');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (62, 'volkswagen', 'volkswagen model 111');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (63, 'plymouth', 'plymouth cricket');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (64, 'toyota', 'toyota corona hardtop');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (65, 'dodge', 'dodge colt hardtop');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (66, 'volkswagen', 'volkswagen type 3');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (67, 'chevrolet', 'chevrolet vega');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (68, 'ford', 'ford pinto runabout');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (69, 'chevrolet', 'chevrolet impala');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (70, 'pontiac', 'pontiac catalina');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (71, 'plymouth', 'plymouth fury iii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (72, 'ford', 'ford galaxie 500');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (73, 'amc', 'amc ambassador sst');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (74, 'mercury', 'mercury marquis');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (75, 'buick', 'buick lesabre custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (76, 'oldsmobile', 'oldsmobile delta 88 royale');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (77, 'chrysler', 'chrysler newport royal');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (78, 'mazda', 'mazda rx2 coupe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (79, 'amc', 'amc matador (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (80, 'chevrolet', 'chevrolet chevelle concours (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (81, 'ford', 'ford gran torino (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (82, 'plymouth', 'plymouth satellite custom (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (83, 'volvo', 'volvo 145e (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (84, 'volkswagen', 'volkswagen 411 (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (85, 'peugeot', 'peugeot 504 (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (86, 'renault', 'renault 12 (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (87, 'ford', 'ford pinto (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (88, 'datsun', 'datsun 510 (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (89, 'toyota', 'toyota corona mark ii (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (90, 'dodge', 'dodge colt (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (91, 'toyota', 'toyota corolla 1600 (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (92, 'buick', 'buick century 350');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (93, 'amc', 'amc matador');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (94, 'chevrolet', 'chevrolet malibu');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (95, 'ford', 'ford gran torino');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (96, 'dodge', 'dodge coronet custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (97, 'mercury', 'mercury marquis brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (98, 'chevrolet', 'chevrolet caprice classic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (99, 'ford', 'ford ltd');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (100, 'plymouth', 'plymouth fury gran sedan');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (101, 'chrysler', 'chrysler new yorker brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (102, 'buick', 'buick electra 225 custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (103, 'amc', 'amc ambassador brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (104, 'plymouth', 'plymouth valiant');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (105, 'chevrolet', 'chevrolet nova custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (106, 'amc', 'amc hornet');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (107, 'ford', 'ford maverick');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (108, 'plymouth', 'plymouth duster');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (109, 'volkswagen', 'volkswagen super beetle');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (110, 'chevrolet', 'chevrolet impala');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (111, 'ford', 'ford country');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (112, 'plymouth', 'plymouth custom suburb');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (113, 'oldsmobile', 'oldsmobile vista cruiser');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (114, 'amc', 'amc gremlin');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (115, 'toyota', 'toyota carina');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (116, 'chevrolet', 'chevrolet vega');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (117, 'datsun', 'datsun 610');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (118, 'mazda', 'mazda rx3');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (119, 'ford', 'ford pinto');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (120, 'mercury', 'mercury capri v6');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (121, 'fiat', 'fiat 124 sport coupe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (122, 'chevrolet', 'chevrolet monte carlo s');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (123, 'pontiac', 'pontiac grand prix');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (124, 'fiat', 'fiat 128');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (125, 'opel', 'opel manta');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (126, 'audi', 'audi 100ls');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (127, 'volvo', 'volvo 144ea');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (128, 'dodge', 'dodge dart custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (129, 'saab', 'saab 99le');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (130, 'toyota', 'toyota mark ii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (131, 'oldsmobile', 'oldsmobile omega');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (132, 'plymouth', 'plymouth duster');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (133, 'ford', 'ford maverick');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (134, 'amc', 'amc hornet');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (135, 'chevrolet', 'chevrolet nova');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (136, 'datsun', 'datsun b210');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (137, 'ford', 'ford pinto');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (138, 'toyota', 'toyota corolla 1200');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (139, 'chevrolet', 'chevrolet vega');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (140, 'chevrolet', 'chevrolet chevelle malibu classic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (141, 'amc', 'amc matador');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (142, 'plymouth', 'plymouth satellite sebring');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (143, 'ford', 'ford gran torino');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (144, 'buick', 'buick century luxus (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (145, 'dodge', 'dodge coronet custom (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (146, 'ford', 'ford gran torino (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (147, 'amc', 'amc matador (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (148, 'audi', 'audi fox');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (149, 'volkswagen', 'volkswagen dasher');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (150, 'opel', 'opel manta');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (151, 'toyota', 'toyota corona');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (152, 'datsun', 'datsun 710');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (153, 'dodge', 'dodge colt');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (154, 'fiat', 'fiat 128');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (155, 'fiat', 'fiat 124 tc');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (156, 'honda', 'honda civic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (157, 'subaru', 'subaru');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (158, 'fiat', 'fiat x1.9');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (159, 'plymouth', 'plymouth valiant custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (160, 'chevrolet', 'chevrolet nova');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (161, 'mercury', 'mercury monarch');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (162, 'ford', 'ford maverick');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (163, 'pontiac', 'pontiac catalina');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (164, 'chevrolet', 'chevrolet bel air');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (165, 'plymouth', 'plymouth grand fury');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (166, 'ford', 'ford ltd');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (167, 'buick', 'buick century');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (168, 'chevrolet', 'chevrolet chevelle malibu');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (169, 'amc', 'amc matador');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (170, 'plymouth', 'plymouth fury');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (171, 'buick', 'buick skyhawk');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (172, 'chevrolet', 'chevrolet monza 2+2');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (173, 'ford', 'ford mustang ii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (174, 'toyota', 'toyota corolla');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (175, 'ford', 'ford pinto');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (176, 'amc', 'amc gremlin');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (177, 'pontiac', 'pontiac astro');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (178, 'toyota', 'toyota corona');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (179, 'volkswagen', 'volkswagen dasher');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (180, 'datsun', 'datsun 710');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (181, 'ford', 'ford pinto');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (182, 'volkswagen', 'volkswagen rabbit');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (183, 'amc', 'amc pacer');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (184, 'audi', 'audi 100ls');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (185, 'peugeot', 'peugeot 504');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (186, 'volvo', 'volvo 244dl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (187, 'saab', 'saab 99le');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (188, 'honda', 'honda civic cvcc');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (189, 'fiat', 'fiat 131');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (190, 'opel', 'opel 1900');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (191, 'capri', 'capri ii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (192, 'dodge', 'dodge colt');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (193, 'renault', 'renault 12tl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (194, 'chevrolet', 'chevrolet chevelle malibu classic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (195, 'dodge', 'dodge coronet brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (196, 'amc', 'amc matador');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (197, 'ford', 'ford gran torino');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (198, 'plymouth', 'plymouth valiant');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (199, 'chevrolet', 'chevrolet nova');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (200, 'ford', 'ford maverick');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (201, 'amc', 'amc hornet');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (202, 'chevrolet', 'chevrolet chevette');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (203, 'chevrolet', 'chevrolet woody');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (204, 'volkswagen', 'vw rabbit');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (205, 'honda', 'honda civic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (206, 'dodge', 'dodge aspen se');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (207, 'ford', 'ford granada ghia');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (208, 'pontiac', 'pontiac ventura sj');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (209, 'amc', 'amc pacer d/l');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (210, 'volkswagen', 'volkswagen rabbit');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (211, 'datsun', 'datsun b-210');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (212, 'toyota', 'toyota corolla');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (213, 'ford', 'ford pinto');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (214, 'volvo', 'volvo 245');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (215, 'plymouth', 'plymouth volare premier v8');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (216, 'peugeot', 'peugeot 504');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (217, 'toyota', 'toyota mark ii');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (218, 'mercedes-benz', 'mercedes-benz 280s');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (219, 'cadillac', 'cadillac seville');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (220, 'chevrolet', 'chevy c10');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (221, 'ford', 'ford f108');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (222, 'dodge', 'dodge d100');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (223, 'honda', 'honda accord cvcc');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (224, 'buick', 'buick opel isuzu deluxe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (225, 'renault', 'renault 5 gtl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (226, 'plymouth', 'plymouth arrow gs');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (227, 'datsun', 'datsun f-10 hatchback');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (228, 'chevrolet', 'chevrolet caprice classic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (229, 'oldsmobile', 'oldsmobile cutlass supreme');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (230, 'dodge', 'dodge monaco brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (231, 'mercury', 'mercury cougar brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (232, 'chevrolet', 'chevrolet concours');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (233, 'buick', 'buick skylark');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (234, 'plymouth', 'plymouth volare custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (235, 'ford', 'ford granada');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (236, 'pontiac', 'pontiac grand prix lj');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (237, 'chevrolet', 'chevrolet monte carlo landau');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (238, 'chrysler', 'chrysler cordoba');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (239, 'ford', 'ford thunderbird');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (240, 'volkswagen', 'volkswagen rabbit custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (241, 'pontiac', 'pontiac sunbird coupe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (242, 'toyota', 'toyota corolla liftback');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (243, 'ford', 'ford mustang ii 2+2');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (244, 'chevrolet', 'chevrolet chevette');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (245, 'dodge', 'dodge colt m/m');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (246, 'subaru', 'subaru dl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (247, 'volkswagen', 'volkswagen dasher');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (248, 'datsun', 'datsun 810');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (249, 'bmw', 'bmw 320i');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (250, 'mazda', 'mazda rx-4');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (251, 'volkswagen', 'volkswagen rabbit custom diesel');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (252, 'ford', 'ford fiesta');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (253, 'mazda', 'mazda glc deluxe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (254, 'datsun', 'datsun b210 gx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (255, 'honda', 'honda civic cvcc');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (256, 'oldsmobile', 'oldsmobile cutlass salon brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (257, 'dodge', 'dodge diplomat');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (258, 'mercury', 'mercury monarch ghia');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (259, 'pontiac', 'pontiac phoenix lj');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (260, 'chevrolet', 'chevrolet malibu');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (261, 'ford', 'ford fairmont (auto)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (262, 'ford', 'ford fairmont (man)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (263, 'plymouth', 'plymouth volare');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (264, 'amc', 'amc concord');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (265, 'buick', 'buick century special');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (266, 'mercury', 'mercury zephyr');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (267, 'dodge', 'dodge aspen');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (268, 'amc', 'amc concord d/l');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (269, 'chevrolet', 'chevrolet monte carlo landau');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (270, 'buick', 'buick regal sport coupe (turbo)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (271, 'ford', 'ford futura');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (272, 'dodge', 'dodge magnum xe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (273, 'chevrolet', 'chevrolet chevette');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (274, 'toyota', 'toyota corona');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (275, 'datsun', 'datsun 510');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (276, 'dodge', 'dodge omni');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (277, 'toyota', 'toyota celica gt liftback');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (278, 'plymouth', 'plymouth sapporo');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (279, 'oldsmobile', 'oldsmobile starfire sx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (280, 'datsun', 'datsun 200-sx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (281, 'audi', 'audi 5000');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (282, 'volvo', 'volvo 264gl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (283, 'saab', 'saab 99gle');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (284, 'peugeot', 'peugeot 604sl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (285, 'volkswagen', 'volkswagen scirocco');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (286, 'honda', 'honda accord lx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (287, 'pontiac', 'pontiac lemans v6');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (288, 'mercury', 'mercury zephyr 6');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (289, 'ford', 'ford fairmont 4');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (290, 'amc', 'amc concord dl 6');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (291, 'dodge', 'dodge aspen 6');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (292, 'chevrolet', 'chevrolet caprice classic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (293, 'ford', 'ford ltd landau');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (294, 'mercury', 'mercury grand marquis');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (295, 'dodge', 'dodge st. regis');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (296, 'buick', 'buick estate wagon (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (297, 'ford', 'ford country squire (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (298, 'chevrolet', 'chevrolet malibu classic (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (299, 'chrysler', 'chrysler lebaron town @ country (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (300, 'volkswagen', 'vw rabbit custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (301, 'mazda', 'mazda glc deluxe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (302, 'dodge', 'dodge colt hatchback custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (303, 'amc', 'amc spirit dl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (304, 'mercedes', 'mercedes benz 300d');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (305, 'cadillac', 'cadillac eldorado');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (306, 'peugeot', 'peugeot 504');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (307, 'oldsmobile', 'oldsmobile cutlass salon brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (308, 'plymouth', 'plymouth horizon');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (309, 'plymouth', 'plymouth horizon tc3');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (310, 'datsun', 'datsun 210');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (311, 'fiat', 'fiat strada custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (312, 'buick', 'buick skylark limited');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (313, 'chevrolet', 'chevrolet citation');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (314, 'oldsmobile', 'oldsmobile omega brougham');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (315, 'pontiac', 'pontiac phoenix');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (316, 'volkswagen', 'vw rabbit');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (317, 'toyota', 'toyota corolla tercel');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (318, 'chevrolet', 'chevrolet chevette');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (319, 'datsun', 'datsun 310');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (320, 'chevrolet', 'chevrolet citation');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (321, 'ford', 'ford fairmont');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (322, 'amc', 'amc concord');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (323, 'dodge', 'dodge aspen');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (324, 'audi', 'audi 4000');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (325, 'toyota', 'toyota corona liftback');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (326, 'mazda', 'mazda 626');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (327, 'datsun', 'datsun 510 hatchback');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (328, 'toyota', 'toyota corolla');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (329, 'mazda', 'mazda glc');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (330, 'dodge', 'dodge colt');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (331, 'datsun', 'datsun 210');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (332, 'volkswagen', 'vw rabbit c (diesel)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (333, 'volkswagen', 'vw dasher (diesel)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (334, 'audi', 'audi 5000s (diesel)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (335, 'mercedes-benz', 'mercedes-benz 240d');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (336, 'honda', 'honda civic 1500 gl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (337, 'renault', 'renault lecar deluxe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (338, 'subaru', 'subaru dl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (339, 'volkswagen', 'volkswagen rabbit');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (340, 'datsun', 'datsun 280-zx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (341, 'mazda', 'mazda rx-7 gs');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (342, 'triumph', 'triumph tr7 coupe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (343, 'ford', 'ford mustang cobra');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (344, 'honda', 'honda accord');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (345, 'plymouth', 'plymouth reliant');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (346, 'buick', 'buick skylark');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (347, 'dodge', 'dodge aries wagon (sw)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (348, 'chevrolet', 'chevrolet citation');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (349, 'plymouth', 'plymouth reliant');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (350, 'toyota', 'toyota starlet');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (351, 'plymouth', 'plymouth champ');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (352, 'honda', 'honda civic 1300');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (353, 'subaru', 'subaru');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (354, 'datsun', 'datsun 210 mpg');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (355, 'toyota', 'toyota tercel');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (356, 'mazda', 'mazda glc 4');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (357, 'plymouth', 'plymouth horizon 4');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (358, 'ford', 'ford escort 4w');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (359, 'ford', 'ford escort 2h');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (360, 'volkswagen', 'volkswagen jetta');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (361, 'renault', 'renault 18i');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (362, 'honda', 'honda prelude');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (363, 'toyota', 'toyota corolla');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (364, 'datsun', 'datsun 200sx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (365, 'mazda', 'mazda 626');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (366, 'peugeot', 'peugeot 505s turbo diesel');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (367, 'saab', 'saab 900s');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (368, 'volvo', 'volvo diesel');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (369, 'toyota', 'toyota cressida');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (370, 'datsun', 'datsun 810 maxima');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (371, 'buick', 'buick century');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (372, 'oldsmobile', 'oldsmobile cutlass ls');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (373, 'ford', 'ford granada gl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (374, 'chrysler', 'chrysler lebaron salon');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (375, 'chevrolet', 'chevrolet cavalier');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (376, 'chevrolet', 'chevrolet cavalier wagon');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (377, 'chevrolet', 'chevrolet cavalier 2-door');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (378, 'pontiac', 'pontiac j2000 se hatchback');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (379, 'dodge', 'dodge aries se');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (380, 'pontiac', 'pontiac phoenix');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (381, 'ford', 'ford fairmont futura');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (382, 'amc', 'amc concord dl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (383, 'volkswagen', 'volkswagen rabbit l');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (384, 'mazda', 'mazda glc custom l');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (385, 'mazda', 'mazda glc custom');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (386, 'plymouth', 'plymouth horizon miser');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (387, 'mercury', 'mercury lynx l');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (388, 'nissan', 'nissan stanza xe');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (389, 'honda', 'honda accord');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (390, 'toyota', 'toyota corolla');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (391, 'honda', 'honda civic');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (392, 'honda', 'honda civic (auto)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (393, 'datsun', 'datsun 310 gx');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (394, 'buick', 'buick century limited');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (395, 'oldsmobile', 'oldsmobile cutlass ciera (diesel)');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (396, 'chrysler', 'chrysler lebaron medallion');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (397, 'ford', 'ford granada l');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (398, 'toyota', 'toyota celica gt');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (399, 'dodge', 'dodge charger 2.2');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (400, 'chevrolet', 'chevrolet camaro');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (401, 'ford', 'ford mustang gl');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (402, 'volkswagen', 'vw pickup');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (403, 'dodge', 'dodge rampage');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (404, 'ford', 'ford ranger');
+INSERT INTO CAR_NAMES (MakeId, Model, MakeDescription) VALUES (405, 'chevrolet', 'chevy s-10');
+
